@@ -1,0 +1,61 @@
+1,milk,refrigerator,Amul,24,20
+2,ice-cream,refrigerator,Dinshaw,56,60
+3,ice-cream,refrigerator,Amul,46,12
+4,salt,general shelf,Tata,9,30
+5,soap,rack,Lux,33,10
+6,coffee,rack,Tata,27,75
+7,shampoo,daily usage rack,Tresemme,18,250
+8,teapack,rack,RedLabel,99,42
+9,butter,fridge,Amul,17,32
+10,refined oil,racks,Saffola,22,50
+11,cheese,fridge,Britannia,55,25
+12,instant pohe,mild fridge,MTR,0,40
+13,Rajma,pulses rack,Local,32,15
+14,chips,chips section,Lays,24,10
+15,Toothpaste,rack,Colgate,15,70
+16,Toothbrush,rack,Pepsodent,28,15
+17,match box,rack,Wheel,12,5
+18,hair oil,rack,Parachute,43,15
+19,milk,fridge,Katraj,17,18
+20,sukha mewa,rack,Royal,0,40
+21,Biscuits,rack,Parle,10,5
+22,honey,shelf,Dabur,12,40
+23,bread,rack,Haldiram,52,13
+24,room freshener,rack,Odonil,33,75
+25,liquid detergent,rack,Comfort,69,115
+26,hand-wash,daily use section,Dettol,103,70
+27,oats,cereal section,Saffola,41,55
+28,face wash,cosmetic rack,Clean & Clear,22,30
+29,face wash,cosmetics section,Nivea,24,60
+30,shrikhand,refrigerator,Amul,41,70
+31,shampoo,cosmetics section,Fiama Di Wills,14,45
+32,shampoo,cosmetics section,Nivea men,36,70
+33,tooth paste,rack,Meswak,32,20
+34,coconut,bag,Local,18,5
+35,sabudana,shelf,Varad Lakshmi,5,40
+36,groundnut,rack,Premium,4,130
+37,black salt powder,rack,Swastik,32,6
+38,jaggery,shelf,Local,7,33
+39,milano centre filled,rack,Parle,15,30
+40,waffy wafers,rack,Dukes,42,35
+41,cheese block,Refrigerator,Britannia,21,28
+42,nice time,rack,Britannia,20,27
+43,Krack Jack,rack ,Parle,40,10
+44,Tomato Ketchup,daily usage,Heinz,22,95
+45,Toilet Cleaner,shelf,Harpic,52,75
+46,Nesquik,Racks,Nestle,33,85
+47,chocolate,rack,Cadbury,16,10
+48,Glucon D,Rack,Dabur,41,60
+49,conditioner,cosmetics,Tresemme,53,135
+50,Fruit Loops,Rack,Kellogs,20,56.000000
+51,Honey loops,Rack,Kellogs,33,105.000000
+52,Bournvita,Rack,Cadbury,33,65.000000
+53,Frozen Peas,Refrigerator,Mccain,34,55.000000
+54,Perk,shelf,Cadbury,0,5.000000
+55,Froot Berry,shelf,Trimurti foods,100,2.000000
+56,Falero box,shelf,Mapro,50,40.000000
+57,Wheat,cereal section,Aashirwad,34,30.000000
+58,Dairy Milk,shelf,Cadbury,38,10.000000
+59,Cauliflower,vegetable section,Local,4,15.000000
+60,Kashmir apples,Fruits section,Local,20,30.000000
+61,Kokam sarbat,Fridge,Mala,2,40.000000
